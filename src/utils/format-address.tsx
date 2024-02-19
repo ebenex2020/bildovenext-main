@@ -6,7 +6,7 @@ interface Props {
   address: string;
 }
 
-const FormatAddress: React.FC<Props> = ({ address }) => {
+const FormatAddress = ({ address }: Props) => {
   const lines = address.split(",");
   return (
     <>

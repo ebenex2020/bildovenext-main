@@ -117,23 +117,23 @@ export const WHY_CHOOSE_US = [
 export const TEAM_MEMBERS = [
   {
     name: "Foluke Oladipo",
-    position: "Financial Advisor",
-    bio: "Kayode Atiba is a seasoned financial advisor with over 10 years of experience...",
+    position: "Lead Financial Advisor",
+    bio: "Foluke Oladipo is a seasoned financial advisor with over 10 years of experience...",
     photo: "/foluke.jpg",
     age: 21,
   },
 
   {
     name: "Kayode",
-    position: "Financial Whatever",
-    bio: "Ayomide Ogunlana is a seasoned financial advisor with over 10 years of experience...",
+    position: "Financial Advisor",
+    bio: "Kayode is a seasoned financial advisor with over 10 years of experience...",
     photo: "/kayode.jpg",
     age: 21,
   },
 
   {
     name: "Ayomide",
-    position: "Financial Whatever",
+    position: "Financial Advisor",
     bio: "Ayomide Ogunlana is a seasoned financial advisor with over 10 years of experience...",
     photo: "/ayo.jpg",
     age: 21,
